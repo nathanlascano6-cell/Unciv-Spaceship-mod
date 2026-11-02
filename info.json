@@ -1,6 +1,6 @@
 {
-  "name": "Spaceship Warfare",
-  "author": "Custom",
-  "description": "Adds the Spaceship Builder, custom space fighters, planetary bombers, and targeted orbital upgrade trees.",
-  "minVersion": "4.0.0"
+  "name": "Unciv-Spaceship-mod",
+  "author": "nathanlascano6-cell",
+  "version": "1.0.0",
+  "description": "Nathan's Spaceship mod"
 }
