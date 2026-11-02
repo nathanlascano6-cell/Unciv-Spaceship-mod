@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Anti satellite missile",
+    "uniques": ["[+9949]% Strength <when attacking> <vs [Space warcraft] units>"],
+    "unitTypes": ["Air"]
+  },
+  {
+    "name": "Pointing accuracy I",
+    "uniques": [
+      "[+25]% Strength <when attacking> <vs [Land] units>",
+      "[+25]% Strength <when attacking> <vs [Water] units>",
+      "[+25]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Pointing accuracy II",
+    "prerequisites": ["Pointing accuracy I"],
+    "uniques": [
+      "[+25]% Strength <when attacking> <vs [Land] units>",
+      "[+25]% Strength <when attacking> <vs [Water] units>",
+      "[+25]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Pointing accuracy III",
+    "prerequisites": ["Pointing accuracy II"],
+    "uniques": [
+      "[+25]% Strength <when attacking> <vs [Land] units>",
+      "[+25]% Strength <when attacking> <vs [Water] units>",
+      "[+25]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Material density I",
+    "uniques": [
+      "[+75]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Material density II",
+    "prerequisites": ["Material density I"],
+    "uniques": [
+      "[+75]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Material density III",
+    "prerequisites": ["Material density II"],
+    "uniques": [
+      "[+75]% Strength <when attacking [City] tiles>"
+    ],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Armor Plating I",
+    "uniques": ["[+25]% Strength <when defending>"],
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
+  },
+  {
+    "name": "Armor Plating II",
+    "prerequisites": ["Armor Plating I"],
+    "uniques": ["[+25]% Strength <when defending>"],
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
+  },
+  {
+    "name": "Armor Plating III",
+    "prerequisites": ["Armor Plating II"],
+    "uniques": ["[+25]% Strength <when defending>"],
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
+  },
+  {
+    "name": "Laser I",
+    "uniques": ["[+50]% Strength <when defending>"],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Laser II",
+    "prerequisites": ["Laser I"],
+    "uniques": ["[+50]% Strength <when defending>"],
+    "unitTypes": ["Spacecraft bomber type"]
+  },
+  {
+    "name": "Laser III",
+    "prerequisites": ["Laser II"],
+    "uniques": ["[+50]% Strength <when defending>"],
+    "unitTypes": ["Spacecraft bomber type"]
+  }
+]

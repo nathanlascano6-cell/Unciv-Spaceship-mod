@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Spacecraft bomber",
+    "unitType": "Spacecraft bomber type",
+    "movement": 1,
+    "strength": 275,
+    "rangedStrength": 275,
+    "range": 15,
+    "cost": 900,
+    "requiredTech": "Satellites",
+    "uniques": [
+      "Nuke of Strength [1]",
+      "Only available <after constructing [Manhattan Project]>",
+      "Requires a [Spaceship Factory] in this city",
+      "Blast radius [1]",
+      "[+75]% Strength <vs [Land] units>",
+      "[+100]% Strength <vs [Water] units>",
+      "[-75]% Strength <vs [Space warcraft] units>"
+    ],
+    "attackSound": "nuke"
+  },
+  {
+    "name": "Spacecraft Fighter",
+    "unitType": "Space warcraft",
+    "movement": 1,
+    "strength": 50,
+    "rangedStrength": 50,
+    "range": 10,
+    "cost": 400,
+    "requiredTech": "Satellites",
+    "uniques": [
+      "[+100]% Strength <vs [Spacecraft bomber]>",
+      "[+1] Attacks per turn"
+    ],
+    "attackSound": "shot"
+  }
+]
