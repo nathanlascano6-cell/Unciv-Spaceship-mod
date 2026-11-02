@@ -9,8 +9,8 @@
     "cost": 900,
     "requiredTech": "Satellites",
     "uniques": [
-      "Nuclear weapon of Strength [1]",
-      "Only available <if [Manhattan Project] is constructed>",
+      "Nuke of Strength [1]",
+      "Only available <after constructing [Manhattan Project]>",
       "Requires a [Spaceship Factory] in this city",
       "Blast radius [1]",
       "[+75]% Strength <vs [Land] units>",

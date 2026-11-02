@@ -2,7 +2,7 @@
   {
     "name": "Anti satellite missile",
     "uniques": ["[+9949]% Strength <when attacking> <vs [Space warcraft] units>"],
-    "unitTypes": ["Fighter"]
+    "unitTypes": ["Air"]
   },
   {
     "name": "Pointing accuracy I",
@@ -46,7 +46,7 @@
     "uniques": [
       "[+75]% Strength <when attacking [City] tiles>"
     ],
-    "unitTypes": ["Spacecraft tomber type"]
+    "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Material density III",
@@ -58,36 +58,36 @@
   },
   {
     "name": "Armor Plating I",
-    "prerequisites": ["[+25]% Strength <when defending>"],
-    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft tomber type"]
+    "uniques": ["[+25]% Strength <when defending>"],
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
   },
   {
     "name": "Armor Plating II",
     "prerequisites": ["Armor Plating I"],
     "uniques": ["[+25]% Strength <when defending>"],
-    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft tomber type"]
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
   },
   {
     "name": "Armor Plating III",
     "prerequisites": ["Armor Plating II"],
     "uniques": ["[+25]% Strength <when defending>"],
-    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft tomber type"]
+    "unitTypes": ["Aircraft Carrier", "Space warcraft", "Spacecraft bomber type"]
   },
   {
     "name": "Laser I",
-    "prerequisites": ["[+50]% Strength <when defending>"],
-    "unitTypes": ["Spacecraft tomber type"]
+    "uniques": ["[+50]% Strength <when defending>"],
+    "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Laser II",
     "prerequisites": ["Laser I"],
     "uniques": ["[+50]% Strength <when defending>"],
-    "unitTypes": ["Spacecraft tomber type"]
+    "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Laser III",
     "prerequisites": ["Laser II"],
     "uniques": ["[+50]% Strength <when defending>"],
-    "unitTypes": ["Spacecraft tomber type"]
+    "unitTypes": ["Spacecraft bomber type"]
   }
 ]
