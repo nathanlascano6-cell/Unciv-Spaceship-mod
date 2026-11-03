@@ -2,14 +2,14 @@
   {
     "name": "Anti satellite missile",
     "uniques": ["[+9949]% Strength <when attacking> <vs [Space warcraft] units>"],
-    "unitTypes": ["Air"]
+    "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Pointing accuracy I",
     "uniques": [
       "[+25]% Strength <when attacking> <vs [Land] units>",
       "[+25]% Strength <when attacking> <vs [Water] units>",
-      "[+25]% Strength <when attacking [City] tiles>"
+      "[+25]% Strength <when attacking> <vs [City]>"
     ],
     "unitTypes": ["Spacecraft bomber type"]
   },
@@ -19,7 +19,7 @@
     "uniques": [
       "[+25]% Strength <when attacking> <vs [Land] units>",
       "[+25]% Strength <when attacking> <vs [Water] units>",
-      "[+25]% Strength <when attacking [City] tiles>"
+      "[+25]% Strength <when attacking> <vs [City]>"
     ],
     "unitTypes": ["Spacecraft bomber type"]
   },
@@ -29,31 +29,25 @@
     "uniques": [
       "[+25]% Strength <when attacking> <vs [Land] units>",
       "[+25]% Strength <when attacking> <vs [Water] units>",
-      "[+25]% Strength <when attacking [City] tiles>"
+      "[+25]% Strength <when attacking> <vs [City]>"
     ],
     "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Material density I",
-    "uniques": [
-      "[+75]% Strength <when attacking [City] tiles>"
-    ],
+    "uniques": ["[+75]% Strength <when attacking> <vs [City]>"],
     "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Material density II",
     "prerequisites": ["Material density I"],
-    "uniques": [
-      "[+75]% Strength <when attacking [City] tiles>"
-    ],
+    "uniques": ["[+75]% Strength <when attacking> <vs [City]>"],
     "unitTypes": ["Spacecraft bomber type"]
   },
   {
     "name": "Material density III",
     "prerequisites": ["Material density II"],
-    "uniques": [
-      "[+75]% Strength <when attacking [City] tiles>"
-    ],
+    "uniques": ["[+75]% Strength <when attacking> <vs [City]>"],
     "unitTypes": ["Spacecraft bomber type"]
   },
   {
