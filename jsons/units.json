@@ -9,9 +9,9 @@
     "cost": 900,
     "requiredTech": "Satellites",
     "uniques": [
-      "Nuke of Strength [1]",
-      "Only available <after constructing [Manhattan Project]>",
-      "Requires a [Spaceship Factory] in this city",
+      "Nuclear weapon of Strength [1]",
+      "Only available <if [Manhattan Project] is constructed>",
+      "Only available <in cities with a [Spaceship Factory]>",
       "Blast radius [1]",
       "[+75]% Strength <vs [Land] units>",
       "[+100]% Strength <vs [Water] units>",
@@ -30,7 +30,8 @@
     "requiredTech": "Satellites",
     "uniques": [
       "[+100]% Strength <vs [Spacecraft bomber]>",
-      "[+1] Attacks per turn"
+      "[1] additional attacks per turn",
+      "Only available <in cities with a [Spaceship Factory]>"
     ],
     "attackSound": "shot"
   }
