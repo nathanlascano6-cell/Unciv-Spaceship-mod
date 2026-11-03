@@ -1,10 +1,7 @@
 [
   {
     "name": "Spacecraft bomber type",
-    "unitType": "Air",
-    "cost": 100,
-    "movement": 5,
-    "strength": 100,
+    "movementType": "Air",
     "uniques": [
       "Can pass through impassable tiles",
       "Can see over obstacles",
@@ -19,10 +16,7 @@
   },
   {
     "name": "Space warcraft",
-    "unitType": "Air",
-    "cost": 100,
-    "movement": 5,
-    "strength": 100,
+    "movementType": "Air",
     "uniques": [
       "Can pass through impassable tiles",
       "Can see over obstacles",
